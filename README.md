@@ -22,19 +22,14 @@ Essa primeira versão, funcionou como uma versão de testes e roda com o uso de 
 ## :rocket: Rodando o projeto
 * Página inicial
 <img src="prints/home.PNG" alt="homepage">
-* Cadastro
-<img src="prints/cadastro.PNG" alt="cadastro">
-* Verificação
-<img src="prints/verificacao.PNG" alt="verificacao">
-* Novo Usuário
-<img src="prints/novousuario.PNG" alt="novousuario">
-* Nova Conversa
-<img src="prints/novaconversa.PNG" alt="novaconversa">
-* Mensagem
-<img src="prints/mensagem.PNG" alt="mensagem">
-* Outro usuário
-<img src="prints/outrousuario.PNG" alt="outrousuario">
-* Conversa simultânea
-<img src="prints/conversa2.PNG" alt="conversa2">
+* Chat
+<img src="prints/chat.PNG" alt="cadastro">
+* Mensagem enviada (usuário Lucas)
+<img src="prints/mensagem.PNG" alt="verificacao">
+* Mensagem enviada (usuário Conrado)
+<img src="prints/mensagem2.PNG" alt="novousuario">
+* Mensagem aparecendo para o usuário Lucas
+<img src="prints/mensagem3.PNG" alt="novaconversa">
+
 
 
